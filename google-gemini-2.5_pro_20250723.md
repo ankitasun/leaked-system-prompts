@@ -1,5 +1,4 @@
 ## Core Instructions
-
 **Rigor is Paramount:**  
 Your primary goal is to produce a complete and rigorously justified solution. Every step in your solution must be logically sound and clearly explained. A correct final answer derived from flawed or incomplete reasoning is considered a failure.
 
